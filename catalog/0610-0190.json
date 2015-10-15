@@ -1,0 +1,30 @@
+[
+    {
+        "id": 17965,
+        "pyramid": "LIDAR-DSM-1M-ENGLAND-2013-EA",
+        "tileReference": "TR19",
+        "fileName": "LIDAR-DSM-1M-2013-TR19.zip",
+        "coverageLayer": "LIDAR-DSM-1M-ENGLAND-2013-EA-MD-YY",
+        "fileSize": 13041347,
+        "descriptiveName": "LIDAR Tiles DSM at 1m spatial resolution 2013",
+        "description": "1m",
+        "groupName": "LIDAR-DSM-TIMESTAMPED-ENGLAND-2013-EA",
+        "displayOrder": -100,
+        "metaDataUrl": "https:\/\/data.gov.uk\/dataset\/lidar-composite-dsm-1m",
+        "url": "http:\/\/www.geostore.com\/environment-agency\/rest\/product\/download\/17965"
+    },
+    {
+        "id": 19136,
+        "pyramid": "LIDAR-DSM-1M-ENGLAND-2014-EA",
+        "tileReference": "TR19",
+        "fileName": "LIDAR-DSM-1M-2014-TR19.zip",
+        "coverageLayer": "LIDAR-DSM-1M-ENGLAND-2014-EA-MD-YY",
+        "fileSize": 14150111,
+        "descriptiveName": "LIDAR Tiles DSM at 1m spatial resolution 2014",
+        "description": "1m",
+        "groupName": "LIDAR-DSM-TIMESTAMPED-ENGLAND-2014-EA",
+        "displayOrder": -100,
+        "metaDataUrl": "https:\/\/data.gov.uk\/dataset\/lidar-composite-dsm-1m",
+        "url": "http:\/\/www.geostore.com\/environment-agency\/rest\/product\/download\/19136"
+    }
+]

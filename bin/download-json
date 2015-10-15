@@ -1,0 +1,25 @@
+#!/usr/bin/php
+<?php
+
+$base_dir = dirname( __DIR__ );
+$cache_dir = "$base_dir/downloaded";
+
+$grid = file( "$base_dir/grid.txt" );
+
+foreach( $grid as $code )
+{
+	$code = chop( $code );
+	print "$code\n";
+	for( $a=0; $a<10; ++$a )
+	{
+		for( $b=0; $b<10; ++$b )
+		{
+			$cell = $code.$a.$b;
+			$url = "http://www.geostore.com/environment-agency/rest/product/OS_GB_10KM/$cell";
+			$json = file_get_contents( $url );
+			if( $json == "[]" ) { continue; }
+			file_put_contents( "$cache_dir/$cell.json", $json );
+			print "Wrote $cell\n";
+		}
+	}
+}

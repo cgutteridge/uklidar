@@ -1,0 +1,58 @@
+[
+    {
+        "id": 12561,
+        "pyramid": "LIDAR-DSM-2M-ENGLAND-2007-EA",
+        "tileReference": "TF29",
+        "fileName": "LIDAR-DSM-2M-2007-TF29.zip",
+        "coverageLayer": "LIDAR-DSM-2M-ENGLAND-2007-EA-MD-YY",
+        "fileSize": 18721430,
+        "descriptiveName": "LIDAR Tiles DSM at 2m spatial resolution 2007",
+        "description": "2m",
+        "groupName": "LIDAR-DSM-TIMESTAMPED-ENGLAND-2007-EA",
+        "displayOrder": -200,
+        "metaDataUrl": "https:\/\/data.gov.uk\/dataset\/lidar-composite-dsm-2m",
+        "url": "http:\/\/www.geostore.com\/environment-agency\/rest\/product\/download\/12561"
+    },
+    {
+        "id": 6981,
+        "pyramid": "LIDAR-DSM-2M-ENGLAND-EA",
+        "tileReference": "TF29",
+        "fileName": "LIDAR-DSM-2M-TF29.zip",
+        "coverageLayer": "LIDAR-DSM-2M-ENGLAND-EA-MD-YY",
+        "fileSize": 17743864,
+        "descriptiveName": "LIDAR Composite DSM - 2m spatial resolution",
+        "description": "DSM at 2m spatial resolution",
+        "groupName": "LIDAR-DSM-GROUP-ENGLAND-EA",
+        "displayOrder": -200,
+        "metaDataUrl": "https:\/\/data.gov.uk\/dataset\/lidar-composite-dsm-2m1",
+        "url": "http:\/\/www.geostore.com\/environment-agency\/rest\/product\/download\/6981"
+    },
+    {
+        "id": 13171,
+        "pyramid": "LIDAR-DTM-2M-ENGLAND-2007-EA",
+        "tileReference": "TF29",
+        "fileName": "LIDAR-DTM-2M-2007-TF29.zip",
+        "coverageLayer": "LIDAR-DTM-2M-ENGLAND-2007-EA-MD-YY",
+        "fileSize": 20304338,
+        "descriptiveName": "LIDAR Tiles DTM at 2m spatial resolution 2007",
+        "description": "2m",
+        "groupName": "LIDAR-DTM-TIMESTAMPED-ENGLAND-2007-EA",
+        "displayOrder": -200,
+        "metaDataUrl": "https:\/\/data.gov.uk\/dataset\/lidar-composite-dtm-2m",
+        "url": "http:\/\/www.geostore.com\/environment-agency\/rest\/product\/download\/13171"
+    },
+    {
+        "id": 7110,
+        "pyramid": "LIDAR-DTM-2M-ENGLAND-EA",
+        "tileReference": "TF29",
+        "fileName": "LIDAR-DTM-2M-TF29.zip",
+        "coverageLayer": "LIDAR-DTM-2M-ENGLAND-EA-MD-YY",
+        "fileSize": 17883735,
+        "descriptiveName": "LIDAR Composite DTM - 2m spatial resolution",
+        "description": "DTM at 2m spatial resolution",
+        "groupName": "LIDAR-DTM-GROUP-ENGLAND-EA",
+        "displayOrder": -200,
+        "metaDataUrl": "https:\/\/data.gov.uk\/dataset\/lidar-composite-dtm-2m1",
+        "url": "http:\/\/www.geostore.com\/environment-agency\/rest\/product\/download\/7110"
+    }
+]
