@@ -1,0 +1,27 @@
+#!/usr/bin/php
+<?php
+$base_dir = dirname( __DIR__ );
+$catalog_dir = "$base_dir/catalog";
+$prefix = "https://data.gov.uk/dataset/lidar-composite-";
+
+if (!$dh = opendir($catalog_dir)){
+  die( "Could not read catalog." );
+}
+$allres = array();
+while (($file = readdir($dh)) !== false){
+	$res = array();
+	if( preg_match( '/^(\d\d\d\d)-(\d\d\d\d)\.json/', $file, $b ) )
+	{
+#		print "filename:" . $file . "\n";
+		$data = json_decode( file_get_contents( "$catalog_dir/$file" ), true );
+		foreach( $data as $dataset )
+		{
+			$rid = substr($dataset["metaDataUrl"], strlen( $prefix ));
+			$allres[$rid] = true;
+			$res[$rid] = true;
+		}
+		$rids = array_keys( $res );
+		sort($rids);
+		print $file." ".join( ",", $rids )."\n";	
+	}
+}
