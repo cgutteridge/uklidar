@@ -1,6 +1,6 @@
 [
     {
-        "id": 18819,
+        "id": 139942,
         "pyramid": "LIDAR-DSM-1M-ENGLAND-2002-EA",
         "tileReference": "SJ78",
         "fileName": "LIDAR-DSM-1M-2002-SJ78.zip",
@@ -10,11 +10,11 @@
         "description": "1m",
         "groupName": "LIDAR-DSM-TIMESTAMPED-ENGLAND-2002-EA",
         "displayOrder": -100,
-        "metaDataUrl": "https:\/\/data.gov.uk\/dataset\/lidar-composite-dsm-1m",
-        "url": "http:\/\/www.geostore.com\/environment-agency\/rest\/product\/download\/18819"
+        "metaDataUrl": null,
+        "url": "http:\/\/www.geostore.com\/environment-agency\/rest\/product\/download\/139942"
     },
     {
-        "id": 21248,
+        "id": 122926,
         "pyramid": "LIDAR-DSM-1M-ENGLAND-2009-EA",
         "tileReference": "SJ78",
         "fileName": "LIDAR-DSM-1M-2009-SJ78.zip",
@@ -24,11 +24,11 @@
         "description": "1m",
         "groupName": "LIDAR-DSM-TIMESTAMPED-ENGLAND-2009-EA",
         "displayOrder": -100,
-        "metaDataUrl": "https:\/\/data.gov.uk\/dataset\/lidar-composite-dsm-1m",
-        "url": "http:\/\/www.geostore.com\/environment-agency\/rest\/product\/download\/21248"
+        "metaDataUrl": null,
+        "url": "http:\/\/www.geostore.com\/environment-agency\/rest\/product\/download\/122926"
     },
     {
-        "id": 8640,
+        "id": 137333,
         "pyramid": "LIDAR-DSM-1M-ENGLAND-EA",
         "tileReference": "SJ78",
         "fileName": "LIDAR-DSM-1M-SJ78.zip",
@@ -39,10 +39,10 @@
         "groupName": "LIDAR-DSM-GROUP-ENGLAND-EA",
         "displayOrder": -100,
         "metaDataUrl": "https:\/\/data.gov.uk\/dataset\/lidar-composite-dsm-1m1",
-        "url": "http:\/\/www.geostore.com\/environment-agency\/rest\/product\/download\/8640"
+        "url": "http:\/\/www.geostore.com\/environment-agency\/rest\/product\/download\/137333"
     },
     {
-        "id": 21040,
+        "id": 134564,
         "pyramid": "LIDAR-DSM-2M-ENGLAND-2006-EA",
         "tileReference": "SJ78",
         "fileName": "LIDAR-DSM-2M-2006-SJ78.zip",
@@ -52,11 +52,11 @@
         "description": "2m",
         "groupName": "LIDAR-DSM-TIMESTAMPED-ENGLAND-2006-EA",
         "displayOrder": -200,
-        "metaDataUrl": "https:\/\/data.gov.uk\/dataset\/lidar-composite-dsm-2m",
-        "url": "http:\/\/www.geostore.com\/environment-agency\/rest\/product\/download\/21040"
+        "metaDataUrl": null,
+        "url": "http:\/\/www.geostore.com\/environment-agency\/rest\/product\/download\/134564"
     },
     {
-        "id": 5028,
+        "id": 136879,
         "pyramid": "LIDAR-DSM-2M-ENGLAND-EA",
         "tileReference": "SJ78",
         "fileName": "LIDAR-DSM-2M-SJ78.zip",
@@ -67,10 +67,10 @@
         "groupName": "LIDAR-DSM-GROUP-ENGLAND-EA",
         "displayOrder": -200,
         "metaDataUrl": "https:\/\/data.gov.uk\/dataset\/lidar-composite-dsm-2m1",
-        "url": "http:\/\/www.geostore.com\/environment-agency\/rest\/product\/download\/5028"
+        "url": "http:\/\/www.geostore.com\/environment-agency\/rest\/product\/download\/136879"
     },
     {
-        "id": 19744,
+        "id": 132985,
         "pyramid": "LIDAR-DTM-1M-ENGLAND-2002-EA",
         "tileReference": "SJ78",
         "fileName": "LIDAR-DTM-1M-2002-SJ78.zip",
@@ -80,11 +80,11 @@
         "description": "1m",
         "groupName": "LIDAR-DTM-TIMESTAMPED-ENGLAND-2002-EA",
         "displayOrder": -100,
-        "metaDataUrl": "https:\/\/data.gov.uk\/dataset\/lidar-composite-dtm-1m",
-        "url": "http:\/\/www.geostore.com\/environment-agency\/rest\/product\/download\/19744"
+        "metaDataUrl": null,
+        "url": "http:\/\/www.geostore.com\/environment-agency\/rest\/product\/download\/132985"
     },
     {
-        "id": 26847,
+        "id": 132871,
         "pyramid": "LIDAR-DTM-1M-ENGLAND-2009-EA",
         "tileReference": "SJ78",
         "fileName": "LIDAR-DTM-1M-2009-SJ78.zip",
@@ -94,11 +94,11 @@
         "description": "1m",
         "groupName": "LIDAR-DTM-TIMESTAMPED-ENGLAND-2009-EA",
         "displayOrder": -100,
-        "metaDataUrl": "https:\/\/data.gov.uk\/dataset\/lidar-composite-dtm-1m",
-        "url": "http:\/\/www.geostore.com\/environment-agency\/rest\/product\/download\/26847"
+        "metaDataUrl": null,
+        "url": "http:\/\/www.geostore.com\/environment-agency\/rest\/product\/download\/132871"
     },
     {
-        "id": 9294,
+        "id": 127443,
         "pyramid": "LIDAR-DTM-1M-ENGLAND-EA",
         "tileReference": "SJ78",
         "fileName": "LIDAR-DTM-1M-SJ78.zip",
@@ -109,10 +109,10 @@
         "groupName": "LIDAR-DTM-GROUP-ENGLAND-EA",
         "displayOrder": -100,
         "metaDataUrl": "https:\/\/data.gov.uk\/dataset\/lidar-composite-dtm-1m1",
-        "url": "http:\/\/www.geostore.com\/environment-agency\/rest\/product\/download\/9294"
+        "url": "http:\/\/www.geostore.com\/environment-agency\/rest\/product\/download\/127443"
     },
     {
-        "id": 22453,
+        "id": 130838,
         "pyramid": "LIDAR-DTM-2M-ENGLAND-2006-EA",
         "tileReference": "SJ78",
         "fileName": "LIDAR-DTM-2M-2006-SJ78.zip",
@@ -122,11 +122,11 @@
         "description": "2m",
         "groupName": "LIDAR-DTM-TIMESTAMPED-ENGLAND-2006-EA",
         "displayOrder": -200,
-        "metaDataUrl": "https:\/\/data.gov.uk\/dataset\/lidar-composite-dtm-2m",
-        "url": "http:\/\/www.geostore.com\/environment-agency\/rest\/product\/download\/22453"
+        "metaDataUrl": null,
+        "url": "http:\/\/www.geostore.com\/environment-agency\/rest\/product\/download\/130838"
     },
     {
-        "id": 5073,
+        "id": 145898,
         "pyramid": "LIDAR-DTM-2M-ENGLAND-EA",
         "tileReference": "SJ78",
         "fileName": "LIDAR-DTM-2M-SJ78.zip",
@@ -137,6 +137,6 @@
         "groupName": "LIDAR-DTM-GROUP-ENGLAND-EA",
         "displayOrder": -200,
         "metaDataUrl": "https:\/\/data.gov.uk\/dataset\/lidar-composite-dtm-2m1",
-        "url": "http:\/\/www.geostore.com\/environment-agency\/rest\/product\/download\/5073"
+        "url": "http:\/\/www.geostore.com\/environment-agency\/rest\/product\/download\/145898"
     }
 ]

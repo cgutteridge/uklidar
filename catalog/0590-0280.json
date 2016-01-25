@@ -1,6 +1,6 @@
 [
     {
-        "id": 25316,
+        "id": 130851,
         "pyramid": "LIDAR-DSM-1M-ENGLAND-2009-EA",
         "tileReference": "TL98",
         "fileName": "LIDAR-DSM-1M-2009-TL98.zip",
@@ -10,11 +10,11 @@
         "description": "1m",
         "groupName": "LIDAR-DSM-TIMESTAMPED-ENGLAND-2009-EA",
         "displayOrder": -100,
-        "metaDataUrl": "https:\/\/data.gov.uk\/dataset\/lidar-composite-dsm-1m",
-        "url": "http:\/\/www.geostore.com\/environment-agency\/rest\/product\/download\/25316"
+        "metaDataUrl": null,
+        "url": "http:\/\/www.geostore.com\/environment-agency\/rest\/product\/download\/130851"
     },
     {
-        "id": 10338,
+        "id": 143439,
         "pyramid": "LIDAR-DSM-1M-ENGLAND-EA",
         "tileReference": "TL98",
         "fileName": "LIDAR-DSM-1M-TL98.zip",
@@ -25,10 +25,10 @@
         "groupName": "LIDAR-DSM-GROUP-ENGLAND-EA",
         "displayOrder": -100,
         "metaDataUrl": "https:\/\/data.gov.uk\/dataset\/lidar-composite-dsm-1m1",
-        "url": "http:\/\/www.geostore.com\/environment-agency\/rest\/product\/download\/10338"
+        "url": "http:\/\/www.geostore.com\/environment-agency\/rest\/product\/download\/143439"
     },
     {
-        "id": 15716,
+        "id": 131382,
         "pyramid": "LIDAR-DSM-2M-ENGLAND-1998-EA",
         "tileReference": "TL98",
         "fileName": "LIDAR-DSM-2M-1998-TL98.zip",
@@ -38,11 +38,11 @@
         "description": "2m",
         "groupName": "LIDAR-DSM-TIMESTAMPED-ENGLAND-1998-EA",
         "displayOrder": -200,
-        "metaDataUrl": "https:\/\/data.gov.uk\/dataset\/lidar-composite-dsm-2m",
-        "url": "http:\/\/www.geostore.com\/environment-agency\/rest\/product\/download\/15716"
+        "metaDataUrl": null,
+        "url": "http:\/\/www.geostore.com\/environment-agency\/rest\/product\/download\/131382"
     },
     {
-        "id": 7458,
+        "id": 124180,
         "pyramid": "LIDAR-DSM-2M-ENGLAND-EA",
         "tileReference": "TL98",
         "fileName": "LIDAR-DSM-2M-TL98.zip",
@@ -53,10 +53,10 @@
         "groupName": "LIDAR-DSM-GROUP-ENGLAND-EA",
         "displayOrder": -200,
         "metaDataUrl": "https:\/\/data.gov.uk\/dataset\/lidar-composite-dsm-2m1",
-        "url": "http:\/\/www.geostore.com\/environment-agency\/rest\/product\/download\/7458"
+        "url": "http:\/\/www.geostore.com\/environment-agency\/rest\/product\/download\/124180"
     },
     {
-        "id": 27611,
+        "id": 133349,
         "pyramid": "LIDAR-DTM-1M-ENGLAND-2009-EA",
         "tileReference": "TL98",
         "fileName": "LIDAR-DTM-1M-2009-TL98.zip",
@@ -66,11 +66,11 @@
         "description": "1m",
         "groupName": "LIDAR-DTM-TIMESTAMPED-ENGLAND-2009-EA",
         "displayOrder": -100,
-        "metaDataUrl": "https:\/\/data.gov.uk\/dataset\/lidar-composite-dtm-1m",
-        "url": "http:\/\/www.geostore.com\/environment-agency\/rest\/product\/download\/27611"
+        "metaDataUrl": null,
+        "url": "http:\/\/www.geostore.com\/environment-agency\/rest\/product\/download\/133349"
     },
     {
-        "id": 10857,
+        "id": 126712,
         "pyramid": "LIDAR-DTM-1M-ENGLAND-EA",
         "tileReference": "TL98",
         "fileName": "LIDAR-DTM-1M-TL98.zip",
@@ -81,10 +81,10 @@
         "groupName": "LIDAR-DTM-GROUP-ENGLAND-EA",
         "displayOrder": -100,
         "metaDataUrl": "https:\/\/data.gov.uk\/dataset\/lidar-composite-dtm-1m1",
-        "url": "http:\/\/www.geostore.com\/environment-agency\/rest\/product\/download\/10857"
+        "url": "http:\/\/www.geostore.com\/environment-agency\/rest\/product\/download\/126712"
     },
     {
-        "id": 17367,
+        "id": 139479,
         "pyramid": "LIDAR-DTM-2M-ENGLAND-1998-EA",
         "tileReference": "TL98",
         "fileName": "LIDAR-DTM-2M-1998-TL98.zip",
@@ -94,11 +94,11 @@
         "description": "2m",
         "groupName": "LIDAR-DTM-TIMESTAMPED-ENGLAND-1998-EA",
         "displayOrder": -200,
-        "metaDataUrl": "https:\/\/data.gov.uk\/dataset\/lidar-composite-dtm-2m",
-        "url": "http:\/\/www.geostore.com\/environment-agency\/rest\/product\/download\/17367"
+        "metaDataUrl": null,
+        "url": "http:\/\/www.geostore.com\/environment-agency\/rest\/product\/download\/139479"
     },
     {
-        "id": 7592,
+        "id": 132245,
         "pyramid": "LIDAR-DTM-2M-ENGLAND-EA",
         "tileReference": "TL98",
         "fileName": "LIDAR-DTM-2M-TL98.zip",
@@ -109,6 +109,6 @@
         "groupName": "LIDAR-DTM-GROUP-ENGLAND-EA",
         "displayOrder": -200,
         "metaDataUrl": "https:\/\/data.gov.uk\/dataset\/lidar-composite-dtm-2m1",
-        "url": "http:\/\/www.geostore.com\/environment-agency\/rest\/product\/download\/7592"
+        "url": "http:\/\/www.geostore.com\/environment-agency\/rest\/product\/download\/132245"
     }
 ]
