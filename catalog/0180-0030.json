@@ -1,6 +1,7 @@
 [
     {
         "id": 128900,
+        "guid": "dcf9e540-25a1-0975-30c7-836a9266948c",
         "pyramid": "LIDAR-DSM-1M-ENGLAND-2007-EA",
         "tileReference": "SW83",
         "fileName": "LIDAR-DSM-1M-2007-SW83.zip",
@@ -15,6 +16,7 @@
     },
     {
         "id": 128169,
+        "guid": "e1cd53a3-5898-cc93-a299-fc95758aec15",
         "pyramid": "LIDAR-DSM-1M-ENGLAND-2009-EA",
         "tileReference": "SW83",
         "fileName": "LIDAR-DSM-1M-2009-SW83.zip",
@@ -29,6 +31,7 @@
     },
     {
         "id": 137512,
+        "guid": "0e3aa0e3-0731-4180-ea51-83ee60d12ed8",
         "pyramid": "LIDAR-DSM-1M-ENGLAND-2011-EA",
         "tileReference": "SW83",
         "fileName": "LIDAR-DSM-1M-2011-SW83.zip",
@@ -43,6 +46,7 @@
     },
     {
         "id": 137837,
+        "guid": "cabe8d5c-0364-e452-9c0c-33408bce5d41",
         "pyramid": "LIDAR-DSM-1M-ENGLAND-2013-EA",
         "tileReference": "SW83",
         "fileName": "LIDAR-DSM-1M-2013-SW83.zip",
@@ -57,6 +61,7 @@
     },
     {
         "id": 127854,
+        "guid": "dec156bd-7f65-13d0-e4ff-ec4448abf964",
         "pyramid": "LIDAR-DSM-1M-ENGLAND-EA",
         "tileReference": "SW83",
         "fileName": "LIDAR-DSM-1M-SW83.zip",
@@ -71,6 +76,7 @@
     },
     {
         "id": 145908,
+        "guid": "2c7c3da5-84b8-77bf-208f-77a471831c50",
         "pyramid": "LIDAR-DSM-2M-ENGLAND-1998-EA",
         "tileReference": "SW83",
         "fileName": "LIDAR-DSM-2M-1998-SW83.zip",
@@ -85,6 +91,7 @@
     },
     {
         "id": 146211,
+        "guid": "dd84d54a-b8b1-e346-ba5b-c52a0fe7d443",
         "pyramid": "LIDAR-DSM-2M-ENGLAND-2001-EA",
         "tileReference": "SW83",
         "fileName": "LIDAR-DSM-2M-2001-SW83.zip",
@@ -99,6 +106,7 @@
     },
     {
         "id": 139573,
+        "guid": "180e59e6-35b7-2730-b4fa-a9b2526f8b5e",
         "pyramid": "LIDAR-DSM-2M-ENGLAND-EA",
         "tileReference": "SW83",
         "fileName": "LIDAR-DSM-2M-SW83.zip",
@@ -113,6 +121,7 @@
     },
     {
         "id": 124323,
+        "guid": "0033d157-0d6d-bc02-432d-97e1a37a83ab",
         "pyramid": "LIDAR-DSM-50CM-ENGLAND-2007-EA",
         "tileReference": "SW83",
         "fileName": "LIDAR-DSM-50CM-2007-SW83.zip",
@@ -127,6 +136,7 @@
     },
     {
         "id": 124609,
+        "guid": "d98664ec-65ca-a416-411c-408380357bac",
         "pyramid": "LIDAR-DSM-50CM-ENGLAND-2015-EA",
         "tileReference": "SW83",
         "fileName": "LIDAR-DSM-50CM-2015-SW83.zip",
@@ -141,6 +151,7 @@
     },
     {
         "id": 132183,
+        "guid": "5fc1959f-dad0-f4de-2a82-ac10e15e179e",
         "pyramid": "LIDAR-DSM-50CM-ENGLAND-EA",
         "tileReference": "SW83",
         "fileName": "LIDAR-DSM-50CM-SW83.zip",
@@ -155,6 +166,7 @@
     },
     {
         "id": 146197,
+        "guid": "3ca21ff5-82fd-3f70-ea7a-809fd36c2227",
         "pyramid": "LIDAR-DTM-1M-ENGLAND-2007-EA",
         "tileReference": "SW83",
         "fileName": "LIDAR-DTM-1M-2007-SW83.zip",
@@ -169,6 +181,7 @@
     },
     {
         "id": 131819,
+        "guid": "c6850163-a553-d78d-c6ac-aefa388e8e36",
         "pyramid": "LIDAR-DTM-1M-ENGLAND-2009-EA",
         "tileReference": "SW83",
         "fileName": "LIDAR-DTM-1M-2009-SW83.zip",
@@ -183,6 +196,7 @@
     },
     {
         "id": 123356,
+        "guid": "d4d9d7bb-acd8-dafd-7585-acff5874a1a8",
         "pyramid": "LIDAR-DTM-1M-ENGLAND-2013-EA",
         "tileReference": "SW83",
         "fileName": "LIDAR-DTM-1M-2013-SW83.zip",
@@ -197,6 +211,7 @@
     },
     {
         "id": 127673,
+        "guid": "9f8d550e-b719-cc5d-70f3-c67c81897e75",
         "pyramid": "LIDAR-DTM-1M-ENGLAND-EA",
         "tileReference": "SW83",
         "fileName": "LIDAR-DTM-1M-SW83.zip",
@@ -211,6 +226,7 @@
     },
     {
         "id": 141366,
+        "guid": "e33739cc-ddfa-d970-b7be-e1e79028a8c5",
         "pyramid": "LIDAR-DTM-2M-ENGLAND-1998-EA",
         "tileReference": "SW83",
         "fileName": "LIDAR-DTM-2M-1998-SW83.zip",
@@ -225,6 +241,7 @@
     },
     {
         "id": 128789,
+        "guid": "e44b53b3-7301-ca91-8633-efe74692e986",
         "pyramid": "LIDAR-DTM-2M-ENGLAND-2001-EA",
         "tileReference": "SW83",
         "fileName": "LIDAR-DTM-2M-2001-SW83.zip",
@@ -239,6 +256,7 @@
     },
     {
         "id": 135051,
+        "guid": "1db45f3d-f5de-beff-de16-2992c2720a61",
         "pyramid": "LIDAR-DTM-2M-ENGLAND-EA",
         "tileReference": "SW83",
         "fileName": "LIDAR-DTM-2M-SW83.zip",
@@ -253,6 +271,7 @@
     },
     {
         "id": 142463,
+        "guid": "93c97b99-e312-e9ea-848b-fd5066cbe6f2",
         "pyramid": "LIDAR-DTM-50CM-ENGLAND-2007-EA",
         "tileReference": "SW83",
         "fileName": "LIDAR-DTM-50CM-2007-SW83.zip",
@@ -267,6 +286,7 @@
     },
     {
         "id": 132777,
+        "guid": "f80db083-b513-367a-068e-876b14d77153",
         "pyramid": "LIDAR-DTM-50CM-ENGLAND-2015-EA",
         "tileReference": "SW83",
         "fileName": "LIDAR-DTM-50CM-2015-SW83.zip",
@@ -281,6 +301,7 @@
     },
     {
         "id": 145388,
+        "guid": "8810837d-7dd2-5cb6-2749-aff61ad3f683",
         "pyramid": "LIDAR-DTM-50CM-ENGLAND-EA",
         "tileReference": "SW83",
         "fileName": "LIDAR-DTM-50CM-SW83.zip",
