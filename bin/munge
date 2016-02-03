@@ -48,7 +48,7 @@ if ($dh = opendir($cache_dir)){
 			$data = json_decode( file_get_contents( "$cache_dir/$file" ), 1 );
 			foreach( $data as &$record )
 			{
-				$record['url'] = 'http://www.geostore.com/environment-agency/rest/product/download/'.$record['id'];
+				$record['url'] = 'http://www.geostore.com/environment-agency/rest/product/download/'.$record['guid'];
 			}
 			$out_file = sprintf( "$output_dir/%04d-%04d.json", $x, $y );
 			$out_json = json_encode($data, JSON_PRETTY_PRINT, 512);
