@@ -1,10 +1,10 @@
 [
     {
-        "id": 124200,
-        "guid": "a4acdd30-454c-ddde-36ec-80c9b426a9e8",
+        "id": 175189,
+        "guid": "b3f685f0-b27b-11e6-9c03-9457a5578ca0",
         "pyramid": "LIDAR-DSM-2M-ENGLAND-2005-EA",
         "tileReference": "SE96",
-        "fileName": "LIDAR-DSM-2M-2005-SE96.zip",
+        "fileName": "LIDAR-DSM-2M-2005-SE9560.zip",
         "coverageLayer": "LIDAR-DSM-2M-ENGLAND-2005-EA-MD-YY",
         "fileSize": 1447816,
         "descriptiveName": "LIDAR Tiles DSM at 2m spatial resolution 2005",
@@ -12,29 +12,29 @@
         "groupName": "LIDAR-DSM-TIMESTAMPED-ENGLAND-2005-EA",
         "displayOrder": -200,
         "metaDataUrl": null,
-        "url": "http:\/\/www.geostore.com\/environment-agency\/rest\/product\/download\/a4acdd30-454c-ddde-36ec-80c9b426a9e8"
+        "url": "http:\/\/www.geostore.com\/environment-agency\/rest\/product\/download\/b3f685f0-b27b-11e6-9c03-9457a5578ca0"
     },
     {
-        "id": 125778,
-        "guid": "892697c5-c42a-0bec-985c-44bda51fd119",
+        "id": 219964,
+        "guid": "8ad7277c-a503-11e6-847b-8cdcd4b4861c",
         "pyramid": "LIDAR-DSM-2M-ENGLAND-EA",
         "tileReference": "SE96",
-        "fileName": "LIDAR-DSM-2M-SE96.zip",
+        "fileName": "LIDAR-DSM-2M-SE9560.zip",
         "coverageLayer": "LIDAR-DSM-2M-ENGLAND-EA-MD-YY",
-        "fileSize": 1164181,
+        "fileSize": 1134614,
         "descriptiveName": "LIDAR Composite DSM - 2m spatial resolution",
         "description": "DSM at 2m spatial resolution",
         "groupName": "LIDAR-DSM-GROUP-ENGLAND-EA",
         "displayOrder": -200,
         "metaDataUrl": "https:\/\/data.gov.uk\/dataset\/lidar-composite-dsm-2m1",
-        "url": "http:\/\/www.geostore.com\/environment-agency\/rest\/product\/download\/892697c5-c42a-0bec-985c-44bda51fd119"
+        "url": "http:\/\/www.geostore.com\/environment-agency\/rest\/product\/download\/8ad7277c-a503-11e6-847b-8cdcd4b4861c"
     },
     {
-        "id": 130904,
-        "guid": "047feb10-9e5c-5cea-397c-e44a13ea38d2",
+        "id": 185346,
+        "guid": "67ec920a-b292-11e6-a99a-9457a5578ca0",
         "pyramid": "LIDAR-DTM-2M-ENGLAND-2005-EA",
         "tileReference": "SE96",
-        "fileName": "LIDAR-DTM-2M-2005-SE96.zip",
+        "fileName": "LIDAR-DTM-2M-2005-SE9560.zip",
         "coverageLayer": "LIDAR-DTM-2M-ENGLAND-2005-EA-MD-YY",
         "fileSize": 1506506,
         "descriptiveName": "LIDAR Tiles DTM at 2m spatial resolution 2005",
@@ -42,21 +42,21 @@
         "groupName": "LIDAR-DTM-TIMESTAMPED-ENGLAND-2005-EA",
         "displayOrder": -200,
         "metaDataUrl": null,
-        "url": "http:\/\/www.geostore.com\/environment-agency\/rest\/product\/download\/047feb10-9e5c-5cea-397c-e44a13ea38d2"
+        "url": "http:\/\/www.geostore.com\/environment-agency\/rest\/product\/download\/67ec920a-b292-11e6-a99a-9457a5578ca0"
     },
     {
-        "id": 125473,
-        "guid": "5cb6f6cf-496b-92c1-1a5e-0187e72a792c",
+        "id": 219617,
+        "guid": "4996b432-a501-11e6-b183-9457a5578ca0",
         "pyramid": "LIDAR-DTM-2M-ENGLAND-EA",
         "tileReference": "SE96",
-        "fileName": "LIDAR-DTM-2M-SE96.zip",
+        "fileName": "LIDAR-DTM-2M-SE9560.zip",
         "coverageLayer": "LIDAR-DTM-2M-ENGLAND-EA-MD-YY",
-        "fileSize": 1161486,
+        "fileSize": 1131473,
         "descriptiveName": "LIDAR Composite DTM - 2m spatial resolution",
         "description": "DTM at 2m spatial resolution",
         "groupName": "LIDAR-DTM-GROUP-ENGLAND-EA",
         "displayOrder": -200,
         "metaDataUrl": "https:\/\/data.gov.uk\/dataset\/lidar-composite-dtm-2m1",
-        "url": "http:\/\/www.geostore.com\/environment-agency\/rest\/product\/download\/5cb6f6cf-496b-92c1-1a5e-0187e72a792c"
+        "url": "http:\/\/www.geostore.com\/environment-agency\/rest\/product\/download\/4996b432-a501-11e6-b183-9457a5578ca0"
     }
 ]

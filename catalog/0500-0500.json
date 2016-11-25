@@ -1,10 +1,10 @@
 [
     {
-        "id": 123692,
-        "guid": "eb64366e-929d-a1de-a45d-77a53299526f",
+        "id": 208456,
+        "guid": "ad291e92-b29c-11e6-bcdf-9457a5578ca0",
         "pyramid": "LIDAR-DSM-1M-ENGLAND-2012-EA",
         "tileReference": "OV00",
-        "fileName": "LIDAR-DSM-1M-2012-OV00.zip",
+        "fileName": "LIDAR-DSM-1M-2012-OV0000.zip",
         "coverageLayer": "LIDAR-DSM-1M-ENGLAND-2012-EA-MD-YY",
         "fileSize": 758144,
         "descriptiveName": "LIDAR Tiles DSM at 1m spatial resolution 2012",
@@ -12,14 +12,14 @@
         "groupName": "LIDAR-DSM-TIMESTAMPED-ENGLAND-2012-EA",
         "displayOrder": -100,
         "metaDataUrl": null,
-        "url": "http:\/\/www.geostore.com\/environment-agency\/rest\/product\/download\/eb64366e-929d-a1de-a45d-77a53299526f"
+        "url": "http:\/\/www.geostore.com\/environment-agency\/rest\/product\/download\/ad291e92-b29c-11e6-bcdf-9457a5578ca0"
     },
     {
-        "id": 143887,
-        "guid": "572834ea-70b8-8102-5574-ab47a0ed9fb5",
+        "id": 209720,
+        "guid": "05017304-b2b0-11e6-b9ed-9457a5578ca0",
         "pyramid": "LIDAR-DSM-1M-ENGLAND-2013-EA",
         "tileReference": "OV00",
-        "fileName": "LIDAR-DSM-1M-2013-OV00.zip",
+        "fileName": "LIDAR-DSM-1M-2013-OV0000.zip",
         "coverageLayer": "LIDAR-DSM-1M-ENGLAND-2013-EA-MD-YY",
         "fileSize": 1097516,
         "descriptiveName": "LIDAR Tiles DSM at 1m spatial resolution 2013",
@@ -27,14 +27,14 @@
         "groupName": "LIDAR-DSM-TIMESTAMPED-ENGLAND-2013-EA",
         "displayOrder": -100,
         "metaDataUrl": null,
-        "url": "http:\/\/www.geostore.com\/environment-agency\/rest\/product\/download\/572834ea-70b8-8102-5574-ab47a0ed9fb5"
+        "url": "http:\/\/www.geostore.com\/environment-agency\/rest\/product\/download\/05017304-b2b0-11e6-b9ed-9457a5578ca0"
     },
     {
-        "id": 132749,
-        "guid": "fb2cb7e6-8819-4895-1319-2e0663830761",
+        "id": 203349,
+        "guid": "31e542be-703a-11e6-91b0-8cdcd4b4861c",
         "pyramid": "LIDAR-DTM-1M-ENGLAND-2012-EA",
         "tileReference": "OV00",
-        "fileName": "LIDAR-DTM-1M-2012-OV00.zip",
+        "fileName": "LIDAR-DTM-1M-2012-OV0000.zip",
         "coverageLayer": "LIDAR-DTM-1M-ENGLAND-2012-EA-MD-YY",
         "fileSize": 797856,
         "descriptiveName": "LIDAR Tiles DTM at 1m spatial resolution 2012",
@@ -42,6 +42,51 @@
         "groupName": "LIDAR-DTM-TIMESTAMPED-ENGLAND-2012-EA",
         "displayOrder": -100,
         "metaDataUrl": null,
-        "url": "http:\/\/www.geostore.com\/environment-agency\/rest\/product\/download\/fb2cb7e6-8819-4895-1319-2e0663830761"
+        "url": "http:\/\/www.geostore.com\/environment-agency\/rest\/product\/download\/31e542be-703a-11e6-91b0-8cdcd4b4861c"
+    },
+    {
+        "id": 159972,
+        "guid": "9c147814-6bf1-11e6-8a05-9457a5578ca0",
+        "pyramid": "LIDAR-LAZ-ENGLAND-2008-EA",
+        "tileReference": "OV00",
+        "fileName": "LIDAR-LAZ-2008-OV0000.zip",
+        "coverageLayer": "LIDAR-LAZ-ENGLAND-2008-EA-MD-YY",
+        "fileSize": 220785,
+        "descriptiveName": "LIDAR Point Cloud 2008",
+        "description": "2008",
+        "groupName": "LIDAR-LAZ-ENGLAND-EA",
+        "displayOrder": -2008,
+        "metaDataUrl": null,
+        "url": "http:\/\/www.geostore.com\/environment-agency\/rest\/product\/download\/9c147814-6bf1-11e6-8a05-9457a5578ca0"
+    },
+    {
+        "id": 166189,
+        "guid": "88e9b5fe-6c11-11e6-8e05-9457a5578ca0",
+        "pyramid": "LIDAR-LAZ-ENGLAND-2012-EA",
+        "tileReference": "OV00",
+        "fileName": "LIDAR-LAZ-2012-OV0000.zip",
+        "coverageLayer": "LIDAR-LAZ-ENGLAND-2012-EA-MD-YY",
+        "fileSize": 1796239,
+        "descriptiveName": "LIDAR Point Cloud 2012",
+        "description": "2012",
+        "groupName": "LIDAR-LAZ-ENGLAND-EA",
+        "displayOrder": -2012,
+        "metaDataUrl": null,
+        "url": "http:\/\/www.geostore.com\/environment-agency\/rest\/product\/download\/88e9b5fe-6c11-11e6-8e05-9457a5578ca0"
+    },
+    {
+        "id": 148189,
+        "guid": "66160570-3a41-11e6-98f8-9457a5578ca0",
+        "pyramid": "VAP-IRRGB-20CM-ENGLAND-2013-EA",
+        "tileReference": "OV00",
+        "fileName": "Ortho-IRRGB-20CM-2013-OV00SW.zip",
+        "coverageLayer": "VAP-IRRGB-20CM-ENGLAND-2013-EA-MD-YY",
+        "fileSize": 522248,
+        "descriptiveName": "VAP Tiles IRRGB at 20cm spatial resolution 2013",
+        "description": "20cm",
+        "groupName": "VAP-IRRGB-ENGLAND-2013-EA",
+        "displayOrder": -200,
+        "metaDataUrl": null,
+        "url": "http:\/\/www.geostore.com\/environment-agency\/rest\/product\/download\/66160570-3a41-11e6-98f8-9457a5578ca0"
     }
 ]
